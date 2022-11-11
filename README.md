@@ -7,5 +7,7 @@
 ## Reach me:
 
 [Mastodon](https://mastodon.compadres.social/web/@goach)
+
 [LinkedIn](https://www.linkedin.com/in/andrewgoacher/)
+
 [Here] (https://github.com/andrewgoacher)
