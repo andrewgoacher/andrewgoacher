@@ -10,4 +10,4 @@
 
 [LinkedIn](https://www.linkedin.com/in/andrewgoacher/)
 
-[Here](https://github.com/andrewgoacher)
+<a href="https://github.com/andrewgoacher" rel="me">here</a>
